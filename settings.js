@@ -10,7 +10,7 @@ global.APIKeys = {
 }
 
 //---------( SETTING )---------//
-global.owner = ['+6285380166282','6281325984505','+6285380166282']
+global.owner = ['+6285380166282','+6285380166282','+6285380166282']
 global.premium = ['6285791677204']
 global.ownernomer = '6285791677204'
 global.ownername = 'FauzyXD'
